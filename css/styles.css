@@ -22,7 +22,8 @@ hr {
 .top-container{
     background-color: #EAF6F6;
     margin: 0px;
-    padding-top: 100px
+    padding-top: 100px;
+    aspect-ratio: auto;
 }
 .middle-container{
     margin: 100px auto;
