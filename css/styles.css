@@ -133,3 +133,7 @@ a{
   a:hover{
     color:#EAF6F6
   }
+@media (max-width: 1250px) {
+    .top-container{
+        width: 100%;}
+    }
